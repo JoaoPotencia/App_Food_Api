@@ -1,0 +1,34 @@
+Codigos terminal para inicializar nmp ou yarn
+
+npm i -g yarn
+
+yarn --version // verifica a versão do yarn
+
+yarn init // inicializa o yarn
+
+yarn add -D typescript // baixamos o typescript so é utilizada a nivel de desenvolvimento (-D)
+
+yarn tsc -init // inicializa o typescript
+
+
+yarn tsc //compila o ts para js
+
+ node src/index //roda codigo typescript
+ 
+ 
+ git --version // verificar versão do git
+ 
+ git init // inicializa o git
+ 
+
+
+<!11/09/22>
+npm install // sempre inicar quando abrir o arquivo novamente, para baixar os arquivos
+
+npm run dev // para executar o código
+ 
+ 
+Baixar Extensões no Vs
+
+EditorConfig for VS Code
+ESLint
